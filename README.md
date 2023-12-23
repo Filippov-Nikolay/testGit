@@ -1,2 +1,3 @@
 # testGit
 testCommit
+newBranch
